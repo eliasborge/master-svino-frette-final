@@ -10,7 +10,7 @@ Follow these steps to set up your local environment:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/eliasborge/master-svino-frette.git
+   git clone https://github.com/eliasborge/master-svino-frette-final.git
    ```
 
 2. **Install Python 3.13.x**
