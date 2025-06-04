@@ -81,4 +81,8 @@ The core logic for classification is located in the `src` directory. It is organ
 
 - **Ollama API**:
   - `api_exctracion.py` - The API used to perform inference and generate completions with the Ollama server
+ 
+
+## Disclaimer
+The data used in the analysis is not included in this repository. Please consult Björn Gambäck (gamback@ntnu.no) for access to the data.
     
