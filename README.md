@@ -1,6 +1,6 @@
 # Master Thesis
 
-This repository contains the source code and documentation associated with the Master's Thesis "Target Acquired: Agent-Based Classification of Violent Threats in Extreme Social Media using Quantized Large Language Models" by Thomas Addisu Sæve Frette and Elias Borge Svinø at the Norwegian University of Science and Technology (NTNU), supervised by Björn Gambäck.
+This repository contains the source code and documentation associated with the Master's Thesis "Combating Digital Violence: Agent-Based Classification of Violent Threats in Extreme Social Media using Quantized Large Language Models" by Thomas Addisu Sæve Frette and Elias Borge Svinø at the Norwegian University of Science and Technology (NTNU), supervised by Björn Gambäck.
 
 
 ## Setup
